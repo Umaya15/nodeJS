@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple Node Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umaya15/nodeJS.git"
+  },
+  "author": "Umaya Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umaya15/nodeJS/issues"
+  },
+  "homepage": "https://github.com/Umaya15/nodeJS#readme"
+}
